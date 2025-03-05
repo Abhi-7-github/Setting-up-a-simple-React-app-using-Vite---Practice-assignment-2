@@ -1,0 +1,33 @@
+/* *{
+  background-color: rgb(104, 140, 172);
+} */
+
+
+.box{
+  height: 50%;
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: aliceblue;
+}
+
+.Name{
+  font-size: xx-large;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Email{
+  font-size: x-large;
+}
+
+.div{
+  height: 50%;
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
